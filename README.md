@@ -77,7 +77,7 @@ I'm a **Computer Science student** currently in my second semester at Cesar Scho
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,cpp,css,discord,figma,github,html,js,md,mysql,py,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,c,css,discord,figma,github,html,js,md,mysql,py,vscode&perline=14" />
   </a>
 </p>
 

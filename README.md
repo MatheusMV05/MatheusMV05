@@ -9,7 +9,9 @@
   </ul>
 </div>
 
-
+### About Me:
+I'm a **Computer Science student** currently in my second semester at Cesar School. I'm passionate about programming and technology, and I am constantly learning new languages and tools to improve my skills. My journey in the world of development is just beginning, but I am eager to grow and contribute to exciting projects.
+<!--About Me end-->
 
 <!--h2 without bottom border-->
 <div id="user-content-toc">

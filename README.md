@@ -22,7 +22,7 @@ I'm a **Computer Science student** currently in my second semester at Cesar Scho
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **Python, C, JavaScript, C#, SQLlite, Azure**
+- 🔭 I’m currently working on **Python, C/C++, JavaScript, C#, SQLlite, Azure**
 
 - 🌱 I’m currently learning **to concepts of game developing**
 

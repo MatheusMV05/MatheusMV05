@@ -18,15 +18,14 @@
 
 > "The road to becoming a great programmer often starts with confusion, but ends with innovation."
 
-I'm a **Computer Science student** at Cesar School, driven by curiosity and passion for technology. Currently in my second semester, I'm on an exciting journey to master the art of programming and create impactful solutions.
+I'm a **Computer Science student** at Cesar School, driven by curiosity and passion for technology. Currently in my third semester, I'm on an exciting journey to master the art of programming and create impactful solutions.
 
 <!-- Current Status Section -->
 ## 🚀 What I'm up to
 
-- 🔭 Currently working with **React, Java, Spring Boot, and Tailwind CSS**
+- 🔭 Currently working with **React, Java, Spring Boot, Tailwind CSS and C#**
 - 🌱 Growing my skills in **Full-Stack Development**
 - 🎮 Pursuing my passion for **Game Development**
-- 🚀 Aspiring to become a versatile **Full-Stack Developer**
 - 📚 Always learning, always coding
 
 <!-- Tech Stack Section -->

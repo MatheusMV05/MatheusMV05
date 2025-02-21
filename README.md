@@ -23,10 +23,10 @@ I'm a **Computer Science student** at Cesar School, driven by curiosity and pass
 <!-- Current Status Section -->
 ## 🚀 What I'm up to
 
-- 🔭 Exploring the realms of **Game Development**
-- 🌱 Growing my skills in **Python, C/C++, JavaScript, C#**
-- ☁️ Diving into cloud computing with **Azure**
-- 🎮 Working on exciting game development projects
+- 🔭 Currently working with **React, Java, Spring Boot, and Tailwind CSS**
+- 🌱 Growing my skills in **Full-Stack Development**
+- 🎮 Pursuing my passion for **Game Development**
+- 🚀 Aspiring to become a versatile **Full-Stack Developer**
 - 📚 Always learning, always coding
 
 <!-- Tech Stack Section -->
@@ -35,8 +35,12 @@ I'm a **Computer Science student** at Cesar School, driven by curiosity and pass
 <div align="center">
   
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
@@ -48,7 +52,7 @@ I'm a **Computer Science student** at Cesar School, driven by curiosity and pass
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,c,css,discord,figma,github,html,js,md,mysql,py,vscode&perline=6" />
+    <img src="https://skillicons.dev/icons?i=git,java,react,spring,tailwind,c,css,discord,figma,github,html,js,md,mysql,py,vscode&perline=8" />
   </a>
 </p>
 

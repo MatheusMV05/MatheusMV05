@@ -1,106 +1,99 @@
+<!-- Banner Image -->
+<div align="center">
+  <img width="100%" height="auto" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/welcome.png"/>
+</div>
 
-<!--horizontal divider(gradiant)-->
+<!-- Title and Subtitle -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6495ED&center=true&vCenter=true&width=435&lines=Hi+There!+%F0%9F%91%8B;I'm+Matheus!" alt="Typing SVG" />
+</h1>
+
+<h3 align="center">A passionate Computer Science student from Brazil 🚀</h3>
+
+<!-- Animated Separator -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Matheus</h1></summary>
-  </ul>
-</div>
+<!-- About Me Section -->
+## 🎯 About Me
 
-### About Me:
-I'm a **Computer Science student** currently in my second semester at Cesar School. I'm passionate about programming and technology, and I am constantly learning new languages and tools to improve my skills. My journey in the world of development is just beginning, but I am eager to grow and contribute to exciting projects.
-<!--About Me end-->
+> "The road to becoming a great programmer often starts with confusion, but ends with innovation."
 
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">The road to becoming a great programmer often starts with confusion.</h2></summary>
-  </ul>
-</div>
+I'm a **Computer Science student** at Cesar School, driven by curiosity and passion for technology. Currently in my second semester, I'm on an exciting journey to master the art of programming and create impactful solutions.
 
+<!-- Current Status Section -->
+## 🚀 What I'm up to
 
-<!--Intro start-->
-- 🔭 I’m currently working on **Python, C/C++, JavaScript, C#, SQLlite, Azure**
+- 🔭 Exploring the realms of **Game Development**
+- 🌱 Growing my skills in **Python, C/C++, JavaScript, C#**
+- ☁️ Diving into cloud computing with **Azure**
+- 🎮 Working on exciting game development projects
+- 📚 Always learning, always coding
 
-- 🌱 I’m currently learning **to concepts of game developing**
+<!-- Tech Stack Section -->
+## 💻 Tech Stack
 
-- ☁️ I've keen interest in cloud computing. So,I'm learning **Azure**
-
-- 📫 Feel free to reach me out **matheusmv05.contato@gmail.com**
-
-<!--Intro end-->
-
-
-
-<!--- stats & Trophy (start) -->
-<p align="center">
-  <!--- stats (start) -->
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
+<div align="center">
   
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=MatheusMV05&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=MatheusMV05&theme=dark&hide_border=false" /> 
-</td>
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
-<td width="50%" align="center">
-
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=MatheusMV05&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  
-  </td>
-</tr>
-</table>
-<!--- stats (end) -->
-
-<!--- trophy (start) -->
-[![trophy](https://github-profile-trophy.vercel.app/?username=MatheusMV05)](https://github.com/ryo-ma/github-profile-trophy)
-<!--- trophy (start) -->
-
-
-</p>        
-<!--- stats (end) -->
-
-
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
-  </ul>
 </div>
-<!--tech stack icons-->
+
+<!-- Tools Section -->
+## 🛠️ Tools & Technologies
+
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,c,css,discord,figma,github,html,js,md,mysql,py,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,c,css,discord,figma,github,html,js,md,mysql,py,vscode&perline=6" />
   </a>
 </p>
 
+<!-- GitHub Stats Section -->
+## 📊 GitHub Stats
 
-
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
-  </ul>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MatheusMV05&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MatheusMV05&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusMV05&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&layout=compact" alt="Top Languages" />
 </div>
 
-<!--icons and links-->
-<p align="center">
-<a href="https://www.linkedin.com/in/matheus-martins-8696422b8/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-</p>
+<!-- GitHub Trophies -->
+## 🏆 GitHub Trophies
 
-
-<!--profile visit count-->
 <div align="center">
   
-[![](https://visitcount.itsvg.in/api?id=MatheusMV05&icon=3&color=6)](https://visitcount.itsvg.in)
-  
+![](https://github-profile-trophy.vercel.app/?username=MatheusMV05&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
+
 </div>
 
+<!-- Connect Section -->
+## 🤝 Let's Connect
 
-<!--horizontal divider(gradiant)-->
+<div align="center">
+  <a href="https://www.linkedin.com/in/matheus-martins-8696422b8/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:matheusmv05.contato@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</div>
+
+<!-- Profile Views Counter -->
+<div align="center">
+  
+[![](https://visitcount.itsvg.in/api?id=MatheusMV05&icon=5&color=6)](https://visitcount.itsvg.in)
+
+</div>
+
+<!-- Footer -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-----------------------------------------------------------------------
-
+<div align="center">
+  <i>Happy Coding! 👨‍💻</i>
+</div>

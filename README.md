@@ -23,7 +23,7 @@ I'm a **Computer Science student** at Cesar School, driven by curiosity and pass
 <!-- Current Status Section -->
 ## 🚀 What I'm up to
 
-- 🔭 Currently working with **React, Java, Spring Boot, and Tailwind CSS**
+- 🔭 Currently working with **React, TypeScript, Java and Spring Boot**
 - 🌱 Growing my skills in **Backend Development**
 - 🎮 Pursuing my passion for **Game Development**
 - 🚀 Aspiring to become a versatile **Full-Stack Developer**

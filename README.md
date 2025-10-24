@@ -39,10 +39,6 @@ My goal? To become a **versatile developer** who doesn't just write code, but cr
 
 <table>
   <tr>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=MatheusMV05&repo=MatheusMV05&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6495ED&icon_color=6495ED&text_color=fff" />
-    </td>
-    <td valign="top" width="50%">
       
 🔭 **Currently Working On**
 - Building full-stack applications with React & Spring Boot

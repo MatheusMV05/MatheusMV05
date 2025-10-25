@@ -152,13 +152,6 @@ My goal? To become a **versatile developer** who doesn't just write code, but cr
 <!-- Animated Separator -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" />
-</div>
-
-<!-- Animated Separator -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 <!-- Contact Call-to-Action -->
 ## 📬 Let's Connect!
 

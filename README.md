@@ -119,7 +119,7 @@ My goal? To become a **versatile developer** who doesn't just write code, but cr
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MatheusMV05/MatheusMV05/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MatheusMV05/MatheusMV05/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MatheusMV05/MatheusMV05/output/github-contribution-grid-snake.svg">
+    <img alt="" src="https://raw.githubusercontent.com/MatheusMV05/MatheusMV05/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
 

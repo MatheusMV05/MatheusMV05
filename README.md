@@ -22,7 +22,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-Hey there! I'm **Matheus**, a Computer Science student at **Cesar School** in Recife, Brazil, currently in my 4th semester. My journey into programming started with curiosity and has evolved into a genuine passion for creating solutions that matter.
+Hey there! I'm **Matheus**, a Computer Science student at **Cesar School** in Recife, Brazil, currently in my 5th semester. My journey into programming started with curiosity and has evolved into a genuine passion for creating solutions that matter.
 
 What drives me? **Problem-solving**. There's something incredibly satisfying about breaking down complex challenges into elegant, efficient code. Whether it's debugging a tricky issue at 2 AM or architecting a new feature, I'm always excited to dive deep and figure things out.
 

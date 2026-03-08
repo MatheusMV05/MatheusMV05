@@ -41,7 +41,7 @@ My goal? To become a **versatile developer** who doesn't just write code, but cr
   <tr>
       
 🔭 **Currently Working On**
-- Building full-stack applications with React & .NET
+- Building full-stack applications with React & SpringBoot
 - Exploring Clean architecture
 
 

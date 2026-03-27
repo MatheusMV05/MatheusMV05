@@ -1,6 +1,6 @@
 <!-- Banner Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Matheus%20Martins&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20Computer%20Science%20Student&descAlignY=51&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Matheus%20Martins&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Backend%20Developer%20%7C%20Computer%20Science%20Student&descAlignY=51&descAlign=50" width="100%"/>
 </div>
 
 <!-- Animated Typing -->
@@ -41,14 +41,14 @@ My goal? To become a **versatile developer** who doesn't just write code, but cr
   <tr>
       
 🔭 **Currently Working On**
-- Building full-stack applications with React & SpringBoot
+- Building robust full-stack applications with React & SpringBoot
 - Exploring Clean architecture
-
+- Exploring Domain Driven Design
+- API development with FastAPI
 
 🌱 **Learning & Growing**
 - Backend Development
 - System Design & Architecture
-- Game Development with Unity
 
 
     </td>
